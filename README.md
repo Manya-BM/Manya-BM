@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Manya-BM
 - 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...coding hackothons!!
+- Interested to find a Internship 
 
 
 <!---
